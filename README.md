@@ -1,4 +1,4 @@
-# dsv-bot
+
 # Historical Data CSV Loader (Google Colab)
 
 This Colab notebook allows you to upload and load the `historical_data.csv` file into a pandas DataFrame for analysis.
